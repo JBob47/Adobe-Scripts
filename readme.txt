@@ -1,0 +1,1 @@
+Scripts to automate various tasks within the Adove CC suite of applications. 
